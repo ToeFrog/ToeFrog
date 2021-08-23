@@ -1,6 +1,6 @@
 # Hi there, I'm Chris 👋🏻
 
-## Husband | Father | Developer Evangelist @ Twilio | Opinions are my own • Build. Learn. Share. Repeat.
+## Husband | Father | Developer Evangelist | Twitch Streamer • Build. Learn. Share. Repeat.
 
 - 📫 How to reach me: [Website](https://toefrog.com) | [Twitter](https://twitter.com/thetoefrog) | [Twitch](http://live.toefrog.com)
 <!--
