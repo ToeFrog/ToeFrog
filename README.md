@@ -2,7 +2,7 @@
 
 ## Husband | Father | Developer Evangelist | Twitch Streamer • Build. Learn. Share. Repeat.
 
-- 📫 How to reach me: [Website](https://toefrog.com) | [Twitter](https://twitter.com/thetoefrog) | [Twitch](http://live.toefrog.com)
+- 📫 How to reach me: [Website](https://toefrog.com) | [Twitter](https://twitter.com/thetoefrog) | [Twitch](http://live.toefrog.com) | [Email](mailto:chris@toefrog.com)
 <!--
 **ToeFrog/ToeFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
