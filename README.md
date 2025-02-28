@@ -1,6 +1,6 @@
 # Hi there, I'm Chris 👋🏻
 
-## Husband | Father | Manaager, Developer Ecosystem @ Twilio | Twitch Streamer
+## Husband | Father | Manager, Developer Ecosystem @ Twilio | Twitch Streamer
 
 - 📫 How to reach me: [Website](https://toefrog.com) | [Twitch](http://live.toefrog.com) | [Email](mailto:chris@toefrog.com)
 <!--
